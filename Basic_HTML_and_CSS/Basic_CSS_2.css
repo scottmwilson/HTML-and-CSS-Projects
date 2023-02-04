@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<style>.My_Style {background-color: red; color: blue; text-align: right; font-size: small; }
+			h1 {text-shadow: 2px 2px #FF0000; }
+			<p class="My_Style">This is my CSS assignemnt</p>
+		</style>	
+	</body>
+<link rel = "stylesheet" type = "text/css" href = "Basic_HTML_5.html">
+</html>

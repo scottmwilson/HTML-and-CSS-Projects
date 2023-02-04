@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+	ol {list-style-type: upper-roman;}
+		<ol>
+			<li>Steak</li>
+			<li>Chicken</li>
+			<li>Fish</li>
+			<li>Pork</li>
+		</ol>
+		ul {list-style-type: sqaure;}
+		<ul>
+			<li>Buildings</li>
+			<li>Iron</li>
+			<li>Water Pipes</li>
+			<li>Electrical Wire</li>
+		</ul>
+	</body>
+	<link rel="stylesheet" type="text/css" href="HTML_Lists.html">
+</html>
