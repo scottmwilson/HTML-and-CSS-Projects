@@ -132,7 +132,7 @@ section {
 -----------------------------------------------*/
 
 #home {
-    background: url(../images/planets.jpg) no-repeat 50% 50%;
+    background: url(../Images/Thumb/background_image.png) no-repeat 50% 50%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -265,7 +265,7 @@ section {
     font-family: 'Ralewaay', sans-serif;
 }
 
-.reservation input[type="text]:hover {
+.reservation input[type="text"]:hover {
     box-shadow: 0 0 18px rgba(100, 65, 0, .8);
 }
 
@@ -293,7 +293,7 @@ section {
     text-decoration: underline;
 }
 
-.submit input[type="submit"]{
+.reservation input[type="submit"]{
     color: rgb(255, 255, 255);
     cursor: pointer;
     border: none;
@@ -311,7 +311,7 @@ section {
     box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.3);
 }
 
-.submit input[type="submit"]:hover {
+.reservation input[type="submit"]:hover {
     color: #000;
     background-color: #8D8E8F;
     box-shadow: inset 1px 2px 15px 9 rgba(0, 0, 0, 0.5);
