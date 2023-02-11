@@ -1,6 +1,9 @@
 html {
     font-family: sans-serf;
     font-size: 62.5%;
+}
+
+input {
     width: 100%;
     margin: 0% auto;
     border: 5px double;
